@@ -1,6 +1,6 @@
 # Introduction
 
-The Towers of Hanoi is a puzzle game that consists of three rods and a number of disks of different sizes that slide onto the rods. The game starts with all disks on one rod in an ordered fashion from bottom to top. The picture below shows the initial configuration of a Towers of Hanoi with four disks. 
+The Towers of Hanoi is a puzzle game that consists of three rods and a number of disks of different sizes that slide onto the rods. The game starts with all disks on one rod in an ordered fashion from bottom to top. The picture below shows the initial configuration of a Towers of Hanoi with four disks.  
 
 ![pic1.png](pics/pic1.png)
 
