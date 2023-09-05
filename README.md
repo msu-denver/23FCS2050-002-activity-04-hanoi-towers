@@ -24,5 +24,5 @@ Now the final step would be to move the disks on the auxiliary rod to the target
 
 Now try to write the code to solve the hanoi towers puzzle for an arbitrary number of disks. Use recursion to reduce the size of the problem and get closer to the solution. Think about what would be the base-case for the recursion. 
 
-To represent the rods use an array or *Rod* objects. This class has methods like push, to add disks on top of the rod, and pop to retrieve disks added from the top. 
+To represent the rods use an array of *Rod* objects. This class has methods like push, to add disks on top of the rod, and pop to retrieve disks added from the top. 
 
